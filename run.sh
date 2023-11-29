@@ -1,5 +1,3 @@
-#!/bin/bash
-
 containers=("apache-hadoop-nodemanager-1" "apache-hadoop-datanode-1" "apache-hadoop-resourcemanager-1" "apache-hadoop-namenode-1")
 
 for container in "${containers[@]}"; do
