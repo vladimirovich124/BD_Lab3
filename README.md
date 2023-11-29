@@ -5,9 +5,7 @@ This project is dedicated to working with Apache Hadoop, specifically implementi
 ## Getting Started
 Follow these steps to set up and run the project locally.
 
-    
     git clone https://github.com/vladimirovich124/BD_Lab3
-   
 
 ## Prerequisites
 Make sure you have Docker and Docker Compose installed on your machine.
